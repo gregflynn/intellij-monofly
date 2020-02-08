@@ -17,7 +17,8 @@
   },
   "ui": {
     "*": {
-      "background": "gBackground"
+      "background": "gBackground",
+      "foreground": "gWhite"
     }
   }
 }
