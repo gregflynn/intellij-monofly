@@ -1,0 +1,33 @@
+<idea-plugin>
+  <id>com.gfly</id>
+  <name>MonoFly</name>
+  <version>1.0</version>
+  <vendor email="greg@gfly.io" url="https://gfly.io">gfly.io</vendor>
+
+  <description><![CDATA[
+      Monokai Pro theme and color scheme
+      lldkfdksjflkdsjflkdsjflkdsjflkdsjfkldsjfdsjlfdjs
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Nothing
+      lldkfdksjflkdsjflkdsjflkdsjflkdsjfkldsjfdsjlfdjs
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="cab0e052-e7eb-4011-8a10-edd328783b9c" path="/monofly.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

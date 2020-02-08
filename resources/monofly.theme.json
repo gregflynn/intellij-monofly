@@ -1,0 +1,23 @@
+{
+  "name": "monokaipro",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/monofly.xml",
+  "colors": {
+    "gBackground": "#2D2A2E",
+    "gBlack": "#080808",
+    "gGray": "#939293",
+    "gWhite": "#FCFCFA",
+    "gBlue": "#78DCE8",
+    "gGreen": "#A9DC76",
+    "gOrange": "#FC9867",
+    "gPurple": "#AB9DF2",
+    "gRed": "#FF6188",
+    "gYellow": "#FFD866"
+  },
+  "ui": {
+    "*": {
+      "background": "gBackground"
+    }
+  }
+}
