@@ -1,17 +1,15 @@
 <idea-plugin>
-  <id>com.gfly</id>
-  <name>MonoFly</name>
+  <id>com.gfly.monofly</id>
+  <name>intellij-monofly</name>
   <version>1.0</version>
   <vendor email="greg@gfly.io" url="https://gfly.io">gfly.io</vendor>
 
   <description><![CDATA[
-      Monokai Pro theme and color scheme
-      lldkfdksjflkdsjflkdsjflkdsjflkdsjfkldsjfdsjlfdjs
+      monofly ui and color scheme, based on monokai/monokai pro
     ]]></description>
 
   <change-notes><![CDATA[
-      Nothing
-      lldkfdksjflkdsjflkdsjflkdsjflkdsjfkldsjfdsjlfdjs
+      NothingNothingNothingNothingNothingNothingNothingNothingNothingNothing
     ]]>
   </change-notes>
 
