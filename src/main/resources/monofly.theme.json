@@ -1,7 +1,7 @@
 {
   "name": "intellij-monofly",
   "dark": true,
-  "author": "",
+  "author": "Greg Flynn",
   "editorScheme": "/monofly.xml",
   "colors": {
     "gBackground": "#2D2A2E",

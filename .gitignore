@@ -1,4 +1,7 @@
 .idea
 out
 
-*.zip
+/build/
+.gradle
+!gradle-wrapper.jar
+.gradletasknamecache

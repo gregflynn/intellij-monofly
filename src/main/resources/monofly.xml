@@ -1,10 +1,9 @@
 <scheme name="monofly" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2020-02-07T19:55:04</property>
+    <property name="created">2020-02-08T19:16:30</property>
     <property name="ide">Python</property>
-    <property name="ideVersion">2019.3.1.0.0</property>
-    <property name="modified">2020-02-07T19:55:13</property>
-    <property name="originalScheme">_@user_Monokai Pro</property>
+    <property name="ideVersion">2019.3.2.0.0</property>
+    <property name="modified">2020-02-08T19:16:43</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="a9dc76" />
@@ -323,22 +322,22 @@
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fc9867" />
+        <option name="FOREGROUND" value="78DCE8" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fc9867" />
+        <option name="FOREGROUND" value="78DCE8" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="78dce8" />
+        <option name="FOREGROUND" value="FC9867" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="78dce8" />
+        <option name="FOREGROUND" value="FC9867" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">

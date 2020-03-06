@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.gfly.monofly</id>
-  <name>intellij-monofly</name>
-  <version>1.0</version>
+  <name>monofly</name>
+  <version>1.1</version>
   <vendor email="greg@gfly.io" url="https://gfly.io">gfly.io</vendor>
 
   <description><![CDATA[
