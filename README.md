@@ -1,3 +1,5 @@
 # intellij-monofly
 
-Docs: https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/deploying_plugin.html
+1. edit the build.gradle
+1. `./gradlew buildPlugin`
+1. grab the jar from build/libs
