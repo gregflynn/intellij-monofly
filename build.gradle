@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.gfly.monofly'
-version = '1.5'
+version = '1.6'
 sourceCompatibility = 1.8
 
 repositories {
@@ -21,7 +21,7 @@ repositories {
 intellij {
     pluginName 'Monofly'
     type 'UI'
-    version '2021.1'
+    version '2021.2'
     downloadSources true
     updateSinceUntilBuild true
 }
