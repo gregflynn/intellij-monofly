@@ -1,27 +1,19 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.intellij' version '0.7.2'
+    id 'org.jetbrains.intellij' version '1.3.0'
 }
 
 group 'com.gfly.monofly'
-version = '1.6'
-sourceCompatibility = 1.8
+version = '1.7'
 
 repositories {
     mavenCentral()
 }
 
-//sourceSets {
-//    main {
-//        java.srcDirs 'src/main/java'
-//        resources.srcDir 'src/main/resources'
-//    }
-//}
-
 intellij {
-    pluginName 'Monofly'
-    type 'UI'
-    version '2021.2'
-    downloadSources true
-    updateSinceUntilBuild true
+    pluginName = 'Monofly'
+//    type = 'UI'
+    version = '2021.3'
+    downloadSources = true
+    updateSinceUntilBuild = true
 }
