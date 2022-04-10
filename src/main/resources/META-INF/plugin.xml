@@ -1,17 +1,12 @@
 <idea-plugin>
   <id>com.gfly.monofly</id>
   <name>monofly</name>
-  <version>1.7</version>
+  <version>X</version>
   <vendor email="greg@gfly.io" url="https://gfly.io">gfly.io</vendor>
 
   <description><![CDATA[
       monofly ui and color scheme, based on monokai/monokai pro
     ]]></description>
-
-  <change-notes><![CDATA[
-      initial release using https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/deploying_plugin.html
-    ]]>
-  </change-notes>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="202.0"/>
